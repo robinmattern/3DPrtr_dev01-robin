@@ -28,7 +28,7 @@ Why would the company or the prospect want to try out the inferior version.
    about by serious prospects.  In terms of the sell cycle this is one step away 
    from a sale.  Asking for a credit card reinforces this.  
 
-   [Free for 1 month Form](Notes/VIDs/3d40221-05_Free-Form.mp4)
+   [Free for 1 month Form](/docs/Notes/VIDs/3d40221-05_Free-Form.mp4)
    
 2. **Demo** 
 The other way to get a free trial is to go through the Demo.  It is a strange instance 
